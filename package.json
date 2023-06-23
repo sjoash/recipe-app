@@ -1,0 +1,23 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoash/recipe-app.git"
+  },
+  "author": "Joash Ssengendo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjoash/recipe-app/issues"
+  },
+  "homepage": "https://github.com/sjoash/recipe-app#readme",
+  "dependencies": {
+    "fractional": "^1.0.0"
+  }
+}
